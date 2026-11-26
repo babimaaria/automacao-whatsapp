@@ -1,1 +1,8 @@
 .env
+ngrok.yml
+*.tmp_workflow.json
+.tmp_nodes.json
+watchdog-evolution.log
+resp1.json
+resp2.json
+healthcheck-evolution.ps1
